@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "title": "Starter Note",
+      "text": "This is an example which can be deleted!",
+      "id": "0"
+    },
+    {
+      "title": "A",
+      "text": "a",
+      "id": "1"
+    },
+    {
+      "title": "B",
+      "text": "b",
+      "id": "2"
+    },
+    {
+      "title": "C",
+      "text": "c",
+      "id": "4"
+    }
+  ]
+}
